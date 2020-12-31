@@ -10,7 +10,7 @@
 
 📕 **最新的博客动态**
 <!-- BLOG-POST-LIST:START -->
-- [20年的光怪陆离我还要想想21年要如何过](https://vancir.github.io/2020-annual-summary-and-future-plan.html)
+- [20年的光怪陆离和21年的未来可期](https://vancir.github.io/2020-annual-summary-and-future-plan.html)
 - [论文: Angora加点优化策略的高效fuzzer](https://vancir.github.io/angora-efficient-fuzzer.html)
 - [论文: SAVIOR以Bug导向的混合模糊测试框架](https://vancir.github.io/savior-bug-driven-hybrid-fuzzing.html)
 - [论文: QSYM应用混合符号执行于模糊测试](https://vancir.github.io/qsym-concolic-execution-for-hybrid-fuzzing.html)
