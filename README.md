@@ -10,9 +10,9 @@
 
 📕 **最新的博客动态**
 <!-- BLOG-POST-LIST:START -->
+- [实践: 使用Golang进行机器学习](https://vancir.github.io/machine-learning-with-golang.html)
 - [论文: 开源包托管服务存在的供应链安全问题](https://vancir.github.io/attacks-on-package-ecosystem.html)
 - [20年的光怪陆离和21年的未来可期](https://vancir.github.io/2020-annual-summary-and-future-plan.html)
 - [论文: Angora加点优化策略的高效fuzzer](https://vancir.github.io/angora-efficient-fuzzer.html)
-- [论文: SAVIOR以Bug导向的混合模糊测试框架](https://vancir.github.io/savior-bug-driven-hybrid-fuzzing.html)
 <!-- BLOG-POST-LIST:END -->
 
