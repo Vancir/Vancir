@@ -10,9 +10,9 @@
 
 📕 **最新的博客动态**
 <!-- BLOG-POST-LIST:START -->
+- [回到2015年看看那时ClusterFuzz的设计](https://vancir.github.io/the-design-of-clusterfuzz-in-2015.html)
 - [关于ClusterFuzz以及规模化持续Fuzzing的笔记](https://vancir.github.io/notes-about-clusterfuzz-and-continuous-fuzzing.html)
 - [我在学习和实践图数据库 Neo4j 的漫漫成长路](https://vancir.github.io/the-journey-of-learning-neo4j.html)
 - [实践: 使用Golang进行机器学习](https://vancir.github.io/machine-learning-with-golang.html)
-- [论文: 开源包托管服务存在的供应链安全问题](https://vancir.github.io/attacks-on-package-ecosystem.html)
 <!-- BLOG-POST-LIST:END -->
 
